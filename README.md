@@ -18,4 +18,4 @@ It supports two modes: random renaming and sequential numbering, while preservin
 ## 🚀 Usage
 
 ```bash
-python pynamer.py /path/to/directory [--random | --numbers]
+python pynamer.py /path/to/directory [--random, -r] or [--numbers, -n]
